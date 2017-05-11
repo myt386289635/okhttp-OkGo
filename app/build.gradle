@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 def buildSdkVersion = 24
-def buildToolVersion = "24.0.3"
+def buildToolVersion = "25.0.0"
 def supportVersion = "24.2.1"
 
 android {
